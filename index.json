@@ -1,7 +1,11 @@
-{ arewepostyamlyet: {
+{
+  "arewepostyamlyet": {
     "question": "Are we post yaml yet?",
-    "answer": false,
-    "hint": "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+    "answer": "no",
+    "hints": [
+      "https://ruudvanasseldonk.com/2023/01/11/the-yaml-document-from-hell",
+      "https://sourceforge.net/projects/ruamel-yaml/"
+    ],
     "start_date": 1737360958
   }
 }
